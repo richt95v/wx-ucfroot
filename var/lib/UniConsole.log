@@ -1,0 +1,1224 @@
+
+******************************************************************************************************
+Thu Sep  1 13:30:20 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Thu Sep  1 13:30:24 2022	Unable to set Test Session ID
+[ : Warning] Thu Sep  1 13:30:24 2022	- The measurement database must be present.
+[ : Warning] Thu Sep  1 13:30:24 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Thu Sep  1 13:30:24 2022	- The manufacturer's ID, name and location must be specified.
+Thu Sep  1 13:30:37 2022	Starting test session for serial number = ... in slot #0
+
+******************************************************************************************************
+Thu Sep  1 13:30:59 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Thu Sep  1 13:31:51 2022	Unable to set Test Session ID
+[ : Warning] Thu Sep  1 13:31:51 2022	- The measurement database must be present.
+[ : Warning] Thu Sep  1 13:31:51 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Thu Sep  1 13:31:51 2022	- The manufacturer's ID, name and location must be specified.
+Thu Sep  1 13:32:08 2022	Starting test session for serial number = ... in slot #0
+
+******************************************************************************************************
+Thu Sep  1 13:33:25 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Thu Sep  1 13:33:39 2022	Unable to set Test Session ID
+[ : Warning] Thu Sep  1 13:33:39 2022	- The measurement database must be present.
+[ : Warning] Thu Sep  1 13:33:39 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Thu Sep  1 13:33:39 2022	- The manufacturer's ID, name and location must be specified.
+Thu Sep  1 13:33:56 2022	Starting test session for serial number = ... in slot #0
+
+******************************************************************************************************
+Thu Sep  1 13:38:48 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Thu Sep  1 13:38:53 2022	Unable to set Test Session ID
+[ : Warning] Thu Sep  1 13:38:53 2022	- The measurement database must be present.
+[ : Warning] Thu Sep  1 13:38:53 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Thu Sep  1 13:38:53 2022	- The manufacturer's ID, name and location must be specified.
+Thu Sep  1 13:39:00 2022	Starting test session for serial number = ... in slot #0
+
+******************************************************************************************************
+Thu Sep  1 13:39:48 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Thu Sep  1 13:40:10 2022	Unable to set Test Session ID
+[ : Warning] Thu Sep  1 13:40:10 2022	- The measurement database must be present.
+[ : Warning] Thu Sep  1 13:40:10 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Thu Sep  1 13:40:10 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Thu Sep  1 13:43:15 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Thu Sep  1 13:43:18 2022	Unable to set Test Session ID
+[ : Warning] Thu Sep  1 13:43:18 2022	- The measurement database must be present.
+[ : Warning] Thu Sep  1 13:43:18 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Thu Sep  1 13:43:18 2022	- The manufacturer's ID, name and location must be specified.
+Thu Sep  1 13:43:28 2022	Starting test session for serial number = ... in slot #0
+
+******************************************************************************************************
+Thu Sep  1 13:43:57 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Thu Sep  1 13:44:17 2022	Unable to set Test Session ID
+[ : Warning] Thu Sep  1 13:44:17 2022	- The measurement database must be present.
+[ : Warning] Thu Sep  1 13:44:17 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Thu Sep  1 13:44:17 2022	- The manufacturer's ID, name and location must be specified.
+Thu Sep  1 13:44:36 2022	Starting test session for serial number = ... in slot #0
+
+******************************************************************************************************
+Thu Sep  1 13:53:04 2022	Application Start
+
+
+
+
+Application initialized using Profile = 
+
+
+
+[ : Warning] Thu Sep  1 13:53:04 2022	
+[ : Warning] Thu Sep  1 13:53:04 2022	The Common Lib path is disabled
+
+Test fixture = FCT<xx>
+[ : Warning] Thu Sep  1 13:53:06 2022	Unable to set Test Session ID
+[ : Warning] Thu Sep  1 13:53:06 2022	- The measurement database must be present.
+[ : Warning] Thu Sep  1 13:53:06 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Thu Sep  1 13:53:06 2022	- The manufacturer's ID, name and location must be specified.
+
+
+Thu Sep  1 13:53:12 2022	Shutdown complete
+
+
+
+******************************************************************************************************
+Thu Sep  1 14:17:58 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Thu Sep  1 14:18:01 2022	Unable to set Test Session ID
+[ : Warning] Thu Sep  1 14:18:01 2022	- The measurement database must be present.
+[ : Warning] Thu Sep  1 14:18:01 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Thu Sep  1 14:18:01 2022	- The manufacturer's ID, name and location must be specified.
+Thu Sep  1 14:18:09 2022	Starting test session for serial number = ... in slot #0
+Thu Sep  1 14:18:13 2022	Test A :: IsValid [1.000, 0.000, 1.000] Failed
+Thu Sep  1 14:18:13 2022	Test A :: IsValid [1.000, 0.000, 1.000] Failed
+Thu Sep  1 14:18:23 2022	Starting test session for serial number = ... in slot #0
+Thu Sep  1 14:18:27 2022	Test A :: IsValid [1.000, 0.000, 1.000] Failed
+Thu Sep  1 14:18:27 2022	Test A :: IsValid [1.000, 0.000, 1.000] Failed
+Thu Sep  1 14:18:29 2022	Test E :: IsValid [1.000, 0.000, 1.000] Failed
+
+
+Thu Sep  1 14:18:39 2022	Shutdown complete
+
+
+
+******************************************************************************************************
+Fri Sep 23 13:06:20 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Fri Sep 23 13:06:24 2022	Unable to set Test Session ID
+[ : Warning] Fri Sep 23 13:06:24 2022	- The measurement database must be present.
+[ : Warning] Fri Sep 23 13:06:24 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Fri Sep 23 13:06:24 2022	- The manufacturer's ID, name and location must be specified.
+
+
+Fri Sep 23 13:07:10 2022	Shutdown complete
+
+
+
+******************************************************************************************************
+Fri Sep 23 13:30:37 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = 
+[ : Warning] Fri Sep 23 13:30:40 2022	Unable to set Test Session ID
+[ : Warning] Fri Sep 23 13:30:40 2022	- The measurement database must be present.
+[ : Warning] Fri Sep 23 13:30:40 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Fri Sep 23 13:30:40 2022	- The manufacturer's ID, name and location must be specified.
+
+
+Fri Sep 23 13:30:47 2022	Shutdown complete
+
+
+
+******************************************************************************************************
+Fri Sep 23 13:31:15 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Fri Sep 23 13:31:17 2022	Unable to set Test Session ID
+[ : Warning] Fri Sep 23 13:31:17 2022	- The measurement database must be present.
+[ : Warning] Fri Sep 23 13:31:17 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Fri Sep 23 13:31:17 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Fri Sep 23 13:39:37 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Fri Sep 23 13:39:40 2022	Unable to set Test Session ID
+[ : Warning] Fri Sep 23 13:39:40 2022	- The measurement database must be present.
+[ : Warning] Fri Sep 23 13:39:40 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Fri Sep 23 13:39:40 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Fri Sep 23 14:57:58 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Fri Sep 23 14:58:02 2022	Unable to set Test Session ID
+[ : Warning] Fri Sep 23 14:58:02 2022	- The measurement database must be present.
+[ : Warning] Fri Sep 23 14:58:02 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Fri Sep 23 14:58:02 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Fri Sep 23 15:00:00 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Fri Sep 23 15:00:07 2022	Unable to set Test Session ID
+[ : Warning] Fri Sep 23 15:00:07 2022	- The measurement database must be present.
+[ : Warning] Fri Sep 23 15:00:07 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Fri Sep 23 15:00:07 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Fri Sep 23 15:02:59 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Fri Sep 23 15:03:02 2022	Unable to set Test Session ID
+[ : Warning] Fri Sep 23 15:03:02 2022	- The measurement database must be present.
+[ : Warning] Fri Sep 23 15:03:02 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Fri Sep 23 15:03:02 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Fri Sep 23 15:04:24 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Fri Sep 23 15:04:26 2022	Unable to set Test Session ID
+[ : Warning] Fri Sep 23 15:04:26 2022	- The measurement database must be present.
+[ : Warning] Fri Sep 23 15:04:26 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Fri Sep 23 15:04:26 2022	- The manufacturer's ID, name and location must be specified.
+
+
+Fri Sep 23 15:04:51 2022	Shutdown complete
+
+
+
+******************************************************************************************************
+Fri Sep 23 15:06:36 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = 
+[ : Warning] Fri Sep 23 15:06:39 2022	Unable to set Test Session ID
+[ : Warning] Fri Sep 23 15:06:39 2022	- The measurement database must be present.
+[ : Warning] Fri Sep 23 15:06:39 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Fri Sep 23 15:06:39 2022	- The manufacturer's ID, name and location must be specified.
+
+
+Fri Sep 23 15:06:59 2022	Shutdown complete
+
+
+
+******************************************************************************************************
+Fri Sep 23 15:10:44 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Fri Sep 23 15:10:46 2022	Unable to set Test Session ID
+[ : Warning] Fri Sep 23 15:10:46 2022	- The measurement database must be present.
+[ : Warning] Fri Sep 23 15:10:46 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Fri Sep 23 15:10:46 2022	- The manufacturer's ID, name and location must be specified.
+Fri Sep 23 15:10:57 2022	
+Fri Sep 23 15:10:57 2022	[f1] not found
+
+******************************************************************************************************
+Fri Sep 23 15:15:09 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Fri Sep 23 15:15:11 2022	Unable to set Test Session ID
+[ : Warning] Fri Sep 23 15:15:11 2022	- The measurement database must be present.
+[ : Warning] Fri Sep 23 15:15:11 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Fri Sep 23 15:15:11 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Fri Sep 23 15:35:17 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Fri Sep 23 15:35:20 2022	Unable to set Test Session ID
+[ : Warning] Fri Sep 23 15:35:20 2022	- The measurement database must be present.
+[ : Warning] Fri Sep 23 15:35:20 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Fri Sep 23 15:35:20 2022	- The manufacturer's ID, name and location must be specified.
+
+
+Fri Sep 23 17:03:53 2022	Shutdown complete
+
+
+
+******************************************************************************************************
+Fri Sep 23 17:05:17 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Fri Sep 23 17:05:20 2022	Unable to set Test Session ID
+[ : Warning] Fri Sep 23 17:05:20 2022	- The measurement database must be present.
+[ : Warning] Fri Sep 23 17:05:20 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Fri Sep 23 17:05:20 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Fri Sep 23 17:15:56 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Fri Sep 23 17:15:58 2022	Unable to set Test Session ID
+[ : Warning] Fri Sep 23 17:15:58 2022	- The measurement database must be present.
+[ : Warning] Fri Sep 23 17:15:58 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Fri Sep 23 17:15:58 2022	- The manufacturer's ID, name and location must be specified.
+
+
+Sat Sep 24 00:22:06 2022	Shutdown complete
+
+
+
+******************************************************************************************************
+Sat Sep 24 08:49:15 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Sat Sep 24 08:49:17 2022	Unable to set Test Session ID
+[ : Warning] Sat Sep 24 08:49:17 2022	- The measurement database must be present.
+[ : Warning] Sat Sep 24 08:49:17 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Sat Sep 24 08:49:17 2022	- The manufacturer's ID, name and location must be specified.
+
+
+Mon Sep 26 07:38:04 2022	Shutdown complete
+
+
+
+******************************************************************************************************
+Mon Sep 26 07:41:14 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Mon Sep 26 07:41:28 2022	Unable to set Test Session ID
+[ : Warning] Mon Sep 26 07:41:28 2022	- The measurement database must be present.
+[ : Warning] Mon Sep 26 07:41:28 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Mon Sep 26 07:41:28 2022	- The manufacturer's ID, name and location must be specified.
+
+
+Mon Sep 26 07:42:22 2022	Shutdown complete
+
+
+
+******************************************************************************************************
+Mon Sep 26 07:46:52 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Mon Sep 26 07:46:55 2022	Unable to set Test Session ID
+[ : Warning] Mon Sep 26 07:46:55 2022	- The measurement database must be present.
+[ : Warning] Mon Sep 26 07:46:55 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Mon Sep 26 07:46:55 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Mon Sep 26 07:47:39 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Mon Sep 26 07:47:41 2022	Unable to set Test Session ID
+[ : Warning] Mon Sep 26 07:47:41 2022	- The measurement database must be present.
+[ : Warning] Mon Sep 26 07:47:41 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Mon Sep 26 07:47:41 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Mon Sep 26 07:52:31 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Mon Sep 26 07:52:33 2022	Unable to set Test Session ID
+[ : Warning] Mon Sep 26 07:52:33 2022	- The measurement database must be present.
+[ : Warning] Mon Sep 26 07:52:33 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Mon Sep 26 07:52:33 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Mon Sep 26 07:53:39 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Mon Sep 26 07:53:42 2022	Unable to set Test Session ID
+[ : Warning] Mon Sep 26 07:53:42 2022	- The measurement database must be present.
+[ : Warning] Mon Sep 26 07:53:42 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Mon Sep 26 07:53:42 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Mon Sep 26 08:02:31 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Mon Sep 26 08:02:34 2022	Unable to set Test Session ID
+[ : Warning] Mon Sep 26 08:02:34 2022	- The measurement database must be present.
+[ : Warning] Mon Sep 26 08:02:34 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Mon Sep 26 08:02:34 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Mon Sep 26 08:06:21 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Mon Sep 26 08:06:24 2022	Unable to set Test Session ID
+[ : Warning] Mon Sep 26 08:06:24 2022	- The measurement database must be present.
+[ : Warning] Mon Sep 26 08:06:24 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Mon Sep 26 08:06:24 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Mon Sep 26 08:12:35 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Mon Sep 26 08:12:39 2022	Unable to set Test Session ID
+[ : Warning] Mon Sep 26 08:12:39 2022	- The measurement database must be present.
+[ : Warning] Mon Sep 26 08:12:39 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Mon Sep 26 08:12:39 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Mon Sep 26 08:16:18 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Mon Sep 26 08:16:21 2022	Unable to set Test Session ID
+[ : Warning] Mon Sep 26 08:16:21 2022	- The measurement database must be present.
+[ : Warning] Mon Sep 26 08:16:21 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Mon Sep 26 08:16:21 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Mon Sep 26 08:19:23 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Mon Sep 26 08:19:44 2022	Unable to set Test Session ID
+[ : Warning] Mon Sep 26 08:19:44 2022	- The measurement database must be present.
+[ : Warning] Mon Sep 26 08:19:44 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Mon Sep 26 08:19:44 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Mon Sep 26 08:22:22 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Mon Sep 26 08:22:25 2022	Unable to set Test Session ID
+[ : Warning] Mon Sep 26 08:22:25 2022	- The measurement database must be present.
+[ : Warning] Mon Sep 26 08:22:25 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Mon Sep 26 08:22:25 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Mon Sep 26 08:25:23 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Mon Sep 26 08:25:25 2022	Unable to set Test Session ID
+[ : Warning] Mon Sep 26 08:25:25 2022	- The measurement database must be present.
+[ : Warning] Mon Sep 26 08:25:25 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Mon Sep 26 08:25:25 2022	- The manufacturer's ID, name and location must be specified.
+
+
+Mon Sep 26 08:27:46 2022	Shutdown complete
+
+
+
+******************************************************************************************************
+Thu Sep 29 09:17:22 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Thu Sep 29 09:17:25 2022	Unable to set Test Session ID
+[ : Warning] Thu Sep 29 09:17:25 2022	- The measurement database must be present.
+[ : Warning] Thu Sep 29 09:17:25 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Thu Sep 29 09:17:25 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Mon Oct 10 20:09:19 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Mon Oct 10 20:09:22 2022	Unable to set Test Session ID
+[ : Warning] Mon Oct 10 20:09:22 2022	- The measurement database must be present.
+[ : Warning] Mon Oct 10 20:09:22 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Mon Oct 10 20:09:22 2022	- The manufacturer's ID, name and location must be specified.
+Mon Oct 10 20:09:24 2022	Unable to open device
+Mon Oct 10 20:09:24 2022	Library Initialization Complete
+Mon Oct 10 20:09:24 2022	Library Initialization Complete
+Mon Oct 10 20:09:25 2022	Initialization exception (Unable to open device)
+Mon Oct 10 20:09:25 2022	Initialization exception (Unable to open device)
+
+
+Mon Oct 10 20:10:08 2022	Shutdown complete
+
+
+
+******************************************************************************************************
+Mon Oct 10 20:26:28 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Mon Oct 10 20:26:31 2022	Unable to set Test Session ID
+[ : Warning] Mon Oct 10 20:26:31 2022	- The measurement database must be present.
+[ : Warning] Mon Oct 10 20:26:31 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Mon Oct 10 20:26:31 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Mon Oct 10 20:30:08 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Mon Oct 10 20:30:13 2022	Unable to set Test Session ID
+[ : Warning] Mon Oct 10 20:30:13 2022	- The measurement database must be present.
+[ : Warning] Mon Oct 10 20:30:13 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Mon Oct 10 20:30:13 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Mon Oct 10 20:30:55 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Mon Oct 10 20:30:58 2022	Unable to set Test Session ID
+[ : Warning] Mon Oct 10 20:30:58 2022	- The measurement database must be present.
+[ : Warning] Mon Oct 10 20:30:58 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Mon Oct 10 20:30:58 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Mon Oct 10 20:39:28 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Mon Oct 10 20:39:35 2022	Unable to set Test Session ID
+[ : Warning] Mon Oct 10 20:39:35 2022	- The measurement database must be present.
+[ : Warning] Mon Oct 10 20:39:35 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Mon Oct 10 20:39:35 2022	- The manufacturer's ID, name and location must be specified.
+Mon Oct 10 20:39:40 2022	Unable to open device
+Mon Oct 10 20:39:40 2022	Library Initialization Complete
+Mon Oct 10 20:39:40 2022	Library Initialization Complete
+Mon Oct 10 20:39:40 2022	Initialization exception (Unable to open device)
+Mon Oct 10 20:39:40 2022	Initialization exception (Unable to open device)
+
+
+Mon Oct 10 20:39:53 2022	Shutdown complete
+
+
+
+******************************************************************************************************
+Mon Oct 10 20:40:52 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Mon Oct 10 20:40:55 2022	Unable to set Test Session ID
+[ : Warning] Mon Oct 10 20:40:55 2022	- The measurement database must be present.
+[ : Warning] Mon Oct 10 20:40:55 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Mon Oct 10 20:40:55 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Mon Oct 10 20:42:21 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Mon Oct 10 20:42:24 2022	Unable to set Test Session ID
+[ : Warning] Mon Oct 10 20:42:24 2022	- The measurement database must be present.
+[ : Warning] Mon Oct 10 20:42:24 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Mon Oct 10 20:42:24 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Mon Oct 10 20:43:13 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Mon Oct 10 20:43:16 2022	Unable to set Test Session ID
+[ : Warning] Mon Oct 10 20:43:16 2022	- The measurement database must be present.
+[ : Warning] Mon Oct 10 20:43:16 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Mon Oct 10 20:43:16 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Mon Oct 10 20:46:24 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Mon Oct 10 20:46:26 2022	Unable to set Test Session ID
+[ : Warning] Mon Oct 10 20:46:26 2022	- The measurement database must be present.
+[ : Warning] Mon Oct 10 20:46:26 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Mon Oct 10 20:46:26 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Mon Oct 10 20:48:46 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Mon Oct 10 20:48:49 2022	Unable to set Test Session ID
+[ : Warning] Mon Oct 10 20:48:49 2022	- The measurement database must be present.
+[ : Warning] Mon Oct 10 20:48:49 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Mon Oct 10 20:48:49 2022	- The manufacturer's ID, name and location must be specified.
+
+
+Mon Oct 10 20:49:58 2022	Shutdown complete
+
+
+
+******************************************************************************************************
+Mon Oct 10 20:50:18 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Mon Oct 10 20:50:21 2022	Unable to set Test Session ID
+[ : Warning] Mon Oct 10 20:50:21 2022	- The measurement database must be present.
+[ : Warning] Mon Oct 10 20:50:21 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Mon Oct 10 20:50:21 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Wed Oct 12 18:26:40 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Wed Oct 12 18:26:44 2022	Unable to set Test Session ID
+[ : Warning] Wed Oct 12 18:26:44 2022	- The measurement database must be present.
+[ : Warning] Wed Oct 12 18:26:44 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Wed Oct 12 18:26:44 2022	- The manufacturer's ID, name and location must be specified.
+Wed Oct 12 18:27:00 2022	Unable to open device
+Wed Oct 12 18:27:00 2022	Library Initialization Complete
+Wed Oct 12 18:27:00 2022	Library Initialization Complete
+Wed Oct 12 18:27:00 2022	Initialization exception (Unable to open device)
+Wed Oct 12 18:27:00 2022	Initialization exception (Unable to open device)
+
+
+Wed Oct 12 18:27:22 2022	Shutdown complete
+
+
+
+******************************************************************************************************
+Wed Oct 12 18:28:08 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Wed Oct 12 18:28:14 2022	Unable to set Test Session ID
+[ : Warning] Wed Oct 12 18:28:14 2022	- The measurement database must be present.
+[ : Warning] Wed Oct 12 18:28:14 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Wed Oct 12 18:28:14 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Wed Oct 12 18:31:47 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Wed Oct 12 18:31:50 2022	Unable to set Test Session ID
+[ : Warning] Wed Oct 12 18:31:50 2022	- The measurement database must be present.
+[ : Warning] Wed Oct 12 18:31:50 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Wed Oct 12 18:31:50 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Wed Oct 12 18:35:00 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Wed Oct 12 18:35:03 2022	Unable to set Test Session ID
+[ : Warning] Wed Oct 12 18:35:03 2022	- The measurement database must be present.
+[ : Warning] Wed Oct 12 18:35:03 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Wed Oct 12 18:35:03 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Wed Oct 12 19:08:35 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Wed Oct 12 19:08:38 2022	Unable to set Test Session ID
+[ : Warning] Wed Oct 12 19:08:38 2022	- The measurement database must be present.
+[ : Warning] Wed Oct 12 19:08:38 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Wed Oct 12 19:08:38 2022	- The manufacturer's ID, name and location must be specified.
+
+
+Wed Oct 12 19:12:02 2022	Shutdown complete
+
+
+
+******************************************************************************************************
+Wed Oct 12 19:12:25 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Wed Oct 12 19:12:28 2022	Unable to set Test Session ID
+[ : Warning] Wed Oct 12 19:12:28 2022	- The measurement database must be present.
+[ : Warning] Wed Oct 12 19:12:28 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Wed Oct 12 19:12:28 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Wed Oct 12 20:00:36 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Wed Oct 12 20:00:39 2022	Unable to set Test Session ID
+[ : Warning] Wed Oct 12 20:00:39 2022	- The measurement database must be present.
+[ : Warning] Wed Oct 12 20:00:39 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Wed Oct 12 20:00:39 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Wed Oct 12 20:02:35 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Wed Oct 12 20:02:38 2022	Unable to set Test Session ID
+[ : Warning] Wed Oct 12 20:02:38 2022	- The measurement database must be present.
+[ : Warning] Wed Oct 12 20:02:38 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Wed Oct 12 20:02:38 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Wed Oct 12 20:19:30 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Wed Oct 12 20:19:33 2022	Unable to set Test Session ID
+[ : Warning] Wed Oct 12 20:19:33 2022	- The measurement database must be present.
+[ : Warning] Wed Oct 12 20:19:33 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Wed Oct 12 20:19:33 2022	- The manufacturer's ID, name and location must be specified.
+Wed Oct 12 20:19:35 2022	Unable to open device
+Wed Oct 12 20:19:35 2022	Library Initialization Complete
+Wed Oct 12 20:19:35 2022	Library Initialization Complete
+Wed Oct 12 20:19:35 2022	Initialization exception (Unable to open device)
+Wed Oct 12 20:19:35 2022	Initialization exception (Unable to open device)
+
+
+Wed Oct 12 20:19:47 2022	Shutdown complete
+
+
+
+******************************************************************************************************
+Fri Oct 14 08:12:10 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Fri Oct 14 08:12:14 2022	Unable to set Test Session ID
+[ : Warning] Fri Oct 14 08:12:14 2022	- The measurement database must be present.
+[ : Warning] Fri Oct 14 08:12:14 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Fri Oct 14 08:12:14 2022	- The manufacturer's ID, name and location must be specified.
+
+******************************************************************************************************
+Fri Oct 14 08:24:46 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Fri Oct 14 08:24:51 2022	Unable to set Test Session ID
+[ : Warning] Fri Oct 14 08:24:51 2022	- The measurement database must be present.
+[ : Warning] Fri Oct 14 08:24:51 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Fri Oct 14 08:24:51 2022	- The manufacturer's ID, name and location must be specified.
+Fri Oct 14 08:26:58 2022	Unable to open TCP device at 127.0.0.1 :: 1299
+Fri Oct 14 08:26:58 2022	Library Initialization Complete
+Fri Oct 14 08:26:58 2022	Library Initialization Complete
+Fri Oct 14 08:26:58 2022	Initialization exception (Unable to open TCP device at 127.0.0.1 :: 1299)
+Fri Oct 14 08:26:58 2022	Initialization exception (Unable to open TCP device at 127.0.0.1 :: 1299)
+
+
+Fri Oct 14 08:27:17 2022	Shutdown complete
+
+
+
+******************************************************************************************************
+Fri Oct 14 08:29:11 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Fri Oct 14 08:29:13 2022	Unable to set Test Session ID
+[ : Warning] Fri Oct 14 08:29:13 2022	- The measurement database must be present.
+[ : Warning] Fri Oct 14 08:29:13 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Fri Oct 14 08:29:13 2022	- The manufacturer's ID, name and location must be specified.
+Fri Oct 14 08:29:32 2022	
+Fri Oct 14 08:29:32 2022	[Help] not found
+
+
+Fri Oct 14 08:33:44 2022	Shutdown complete
+
+
+
+******************************************************************************************************
+Fri Oct 14 08:41:14 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Fri Oct 14 08:41:16 2022	Unable to set Test Session ID
+[ : Warning] Fri Oct 14 08:41:16 2022	- The measurement database must be present.
+[ : Warning] Fri Oct 14 08:41:16 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Fri Oct 14 08:41:16 2022	- The manufacturer's ID, name and location must be specified.
+Fri Oct 14 08:41:27 2022	Unable to open TCP device at 127.0.0.1 :: 1299
+Fri Oct 14 08:42:05 2022	Unable to read #1
+
+
+Fri Oct 14 08:43:11 2022	Shutdown complete
+
+
+
+******************************************************************************************************
+Fri Oct 14 09:08:01 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Fri Oct 14 09:08:03 2022	Unable to set Test Session ID
+[ : Warning] Fri Oct 14 09:08:03 2022	- The measurement database must be present.
+[ : Warning] Fri Oct 14 09:08:03 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Fri Oct 14 09:08:03 2022	- The manufacturer's ID, name and location must be specified.
+Fri Oct 14 09:08:28 2022	Unable to open TCP device at 127.0.0.1 :: 1299
+
+******************************************************************************************************
+Fri Oct 14 09:11:50 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Fri Oct 14 09:11:58 2022	Unable to set Test Session ID
+[ : Warning] Fri Oct 14 09:11:58 2022	- The measurement database must be present.
+[ : Warning] Fri Oct 14 09:11:58 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Fri Oct 14 09:11:58 2022	- The manufacturer's ID, name and location must be specified.
+Fri Oct 14 09:12:28 2022	Timeout occurred during read #1
+
+
+Fri Oct 14 09:12:58 2022	Shutdown complete
+
+
