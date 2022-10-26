@@ -1222,3 +1222,69 @@ Fri Oct 14 09:12:28 2022	Timeout occurred during read #1
 Fri Oct 14 09:12:58 2022	Shutdown complete
 
 
+
+******************************************************************************************************
+Wed Oct 26 11:30:04 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Wed Oct 26 11:30:11 2022	Unable to set Test Session ID
+[ : Warning] Wed Oct 26 11:30:11 2022	- The measurement database must be present.
+[ : Warning] Wed Oct 26 11:30:11 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Wed Oct 26 11:30:11 2022	- The manufacturer's ID, name and location must be specified.
+
+
+Wed Oct 26 11:30:46 2022	Shutdown complete
+
+
+
+******************************************************************************************************
+Wed Oct 26 11:48:38 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Wed Oct 26 11:48:41 2022	Unable to set Test Session ID
+[ : Warning] Wed Oct 26 11:48:41 2022	- The measurement database must be present.
+[ : Warning] Wed Oct 26 11:48:41 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Wed Oct 26 11:48:41 2022	- The manufacturer's ID, name and location must be specified.
+
+
+Wed Oct 26 11:49:13 2022	Shutdown complete
+
+
+
+******************************************************************************************************
+Wed Oct 26 11:56:10 2022	Application Start
+
+
+
+
+Application initialized using Profile = INSTANCE
+
+
+
+
+Test fixture = FCT<xx>
+[ : Warning] Wed Oct 26 11:56:13 2022	Unable to set Test Session ID
+[ : Warning] Wed Oct 26 11:56:13 2022	- The measurement database must be present.
+[ : Warning] Wed Oct 26 11:56:13 2022	- A test specification must be associated with the specified profile.
+[ : Warning] Wed Oct 26 11:56:13 2022	- The manufacturer's ID, name and location must be specified.
+
+
+Wed Oct 26 11:57:02 2022	Shutdown complete
+
+

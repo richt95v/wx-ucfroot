@@ -562,6 +562,30 @@ int TplModule::Debug1(CmdParam msg) {
     bool status{ false };
     std::string token_str;
     TokenString params(msg,',');
+ 
+    TheShell->
+        UserSync(
+            true,
+            false,
+            "Title",
+            "message line1\n"
+            "message line2\n"
+            "message line3\n"
+            "line 4\n"
+            "line 5\n"
+            "line 6\n"
+            "line 7\n"
+            "line 8\n"
+            "line 9\n"
+            "line 10\n"
+        );
+
+    while (TheShell->GetButtonSelection() == false) {
+
+        std::this_thread::sleep_for(std::chrono::milliseconds(1000));
+    }
+
+    TheShell->UserSync(false);
 
 #if 0
     imx::StringBuffer buffer;
@@ -587,6 +611,8 @@ int TplModule::Debug1(CmdParam msg) {
     index1 = buffer.ScanForSubString("line5", line);
 
 #endif
+
+#if 0
     char* buffer { "ABCD\0" };
 
     auto port= TheSystem->RegisterIOChannelDevice(2,"A generic tcp channel");
@@ -596,6 +622,7 @@ int TplModule::Debug1(CmdParam msg) {
 
         port->Close();
     }
+#endif
 
 #if 0
     SerialConsole console(TheSystem->GetTmpIOChannelDevice(0));
